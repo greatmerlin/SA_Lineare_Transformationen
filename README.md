@@ -2,9 +2,13 @@
 
 ## Aufgaben (in Jupyter Notebook)
 
+- [X] Theorie: Lineare Abbildungen
+- [ ] Theorie: Matrizen
+- [ ] Theorie: Darstellung von linearen Abbildungen durch Matizen 
+- [ ] Theorie: Die Anwendungen der linearen Transformationen  
 - [ ] Python-Funktion: Zweidimensionalen linearen Abbildungen
 - [ ] Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)
-
+- [ ] Quellen
 
 
 ### Details  
