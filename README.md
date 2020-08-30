@@ -2,17 +2,21 @@
 
 ## Aufgaben (in Jupyter Notebook)
 
-- [ ] Python Funktion: Darstellung zweidimensionalen linearen Abbildungen
+- [ ] Python-Funktion: Zweidimensionalen linearen Abbildungen
+- [ ] Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)
 
 
-- Im Notebook sollte eine Python-Funktion definiert werden
-   die als Argument eine Abbildungsmatrix einer zweidimensionalen linearen Abbildung benötigt  
-   als optionale Argumente sollten Wertebereiche für die x-Werte und die y-Werte angegeben werden können.  
 
-### Die Funktion sollte dann **eine Graphik** erzeugen mit folgenden Elementen:
+### Details  
 
-1. Gitterlinien des Koordinatensystems (Parallele zu den x- und y-Achsen.
-2. Ein Kreis mit Radius 1 und Zentrum in Koordinatenursprung ((0,0)).
+* Python-Funktion: Darstellung zweidimensionalen linearen Abbildungen  
+   Als *Argument* eine Abbildungsmatrix einer zweidimensionalen linearen Abbildung benötigt  
+   als *optionale Argumente* sollten Wertebereiche für die x-Werte und die y-Werte angegeben werden können.  
+   
+* Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)  
+   Die Funktion sollte dann **eine Graphik** erzeugen mit folgenden Elementen:  
+1. Gitterlinien des Koordinatensystems (Parallele zu den x- und y-Achsen.  
+2. Ein Kreis mit Radius 1 und Zentrum in Koordinatenursprung ((0,0)).  
 3. Ferner sollen die Bilder der Elemente aus 1 und 2 unter der angegebenen Abbildungsmatrix eingezeichnet werden.  
 
 
