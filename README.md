@@ -1,8 +1,9 @@
 # Semesterarbeit LinAlg: *Lineare Transformationen*
 
-## Aufgaben
+## Aufgaben (in Jupyter Notebook)
 
-- Schreiben Sie ein Jupyter Notebook -> das die Funktion der **zweidimensionalen linearen Abbildungen illustriert.**
+[] Python Funktion: Darstellung zweidimensionalen linearen Abbildungen
+
 
 - Im Notebook sollte eine Python-Funktion definiert werden
    die als Argument eine Abbildungsmatrix einer zweidimensionalen linearen Abbildung benötigt  
