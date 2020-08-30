@@ -19,6 +19,6 @@
 
 - In einem **Theorieteil** sollten der Begriff der linearen Abblidung sowie die Darstellung von linearen Abbildungen durch Matizen beschreiben werden. Gehen Sie auch auf die Anwendungen der linearen Transformationen ein.
 
-** *Hinweis zur Darstellung des Kreises* **  
+**Hinweis zur Darstellung des Kreises**  
 *Das Bild eines Kreises unter linearen Abbildungen ist nicht ganz einfach zu bestimmen.*    
 *Es empfielt sich daher, den Einheitskreis durch ein reguläres Vieleck (z.B. mit 500 Ecken) zu ersetzen. Die Koordinaten einer Ecke sind (cos(φ),sin(φ), wobei φ Winkel zwischen 0 und 2π durchlaufen muss. Die Koordinaten der Ecken können in einem numpy-Array K als Spalten abgelegt werden; das Bild des Vielecks unter einer Abbildung mit Darstellungsmatrix M ist dann M@K.* 
