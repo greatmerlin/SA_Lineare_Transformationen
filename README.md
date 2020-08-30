@@ -2,7 +2,7 @@
 
 ## Aufgaben (in Jupyter Notebook)
 
-[] Python Funktion: Darstellung zweidimensionalen linearen Abbildungen
+- [ ] Python Funktion: Darstellung zweidimensionalen linearen Abbildungen
 
 
 - Im Notebook sollte eine Python-Funktion definiert werden
