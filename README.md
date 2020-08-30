@@ -35,3 +35,7 @@ Gehen Sie auch auf die **Anwendungen der linearen Transformationen** ein.
    *Die Koordinaten einer Ecke sind (cos(φ),sin(φ), wobei φ       Winkel zwischen 0 und 2π durchlaufen muss.*   
    *Die Koordinaten der Ecken können in einem numpy-Array K als Spalten abgelegt werden; das Bild des Vielecks*  
    *unter einer Abbildung mit Darstellungsmatrix M ist dann M@K.* 
+   
+## Deadline
+
+bis **22.09.20**
