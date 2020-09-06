@@ -3,8 +3,8 @@
 ## Aufgaben (in Jupyter Notebook)
 
 - [X] Theorie: Lineare Abbildungen
-- [ ] Theorie: Matrizen
-- [ ] Theorie: Darstellung von linearen Abbildungen durch Matizen 
+- [X] Theorie: Matrizen
+- [ ] Theorie: Darstellung von linearen Abbildungen durch Matizen
 - [ ] Theorie: Die Anwendungen der linearen Transformationen  
 - [ ] Python-Funktion: Zweidimensionalen linearen Abbildungen
 - [ ] Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)
@@ -16,7 +16,7 @@
 * Python-Funktion: Darstellung zweidimensionalen linearen Abbildungen  
    Als **Argument** eine Abbildungsmatrix einer zweidimensionalen linearen Abbildung benötigt  
    als **optionale Argumente** sollten Wertebereiche für die x-Werte und die y-Werte angegeben werden können.  
-   
+
 * Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)  
    Die Funktion sollte dann **eine Graphik** erzeugen mit folgenden **Elementen**:  
 1. Gitterlinien des Koordinatensystems (Parallele zu den x- und y-Achsen.  
@@ -34,8 +34,8 @@ Gehen Sie auch auf die **Anwendungen der linearen Transformationen** ein.
    *Es empfielt sich daher, den Einheitskreis durch ein reguläres Vieleck (z.B. mit 500 Ecken) zu ersetzen.*   
    *Die Koordinaten einer Ecke sind (cos(φ),sin(φ), wobei φ       Winkel zwischen 0 und 2π durchlaufen muss.*   
    *Die Koordinaten der Ecken können in einem numpy-Array K als Spalten abgelegt werden; das Bild des Vielecks*  
-   *unter einer Abbildung mit Darstellungsmatrix M ist dann M@K.* 
-   
+   *unter einer Abbildung mit Darstellungsmatrix M ist dann M@K.*
+
 ## Deadline
 
 bis **22.09.20**
