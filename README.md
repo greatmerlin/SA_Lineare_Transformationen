@@ -4,11 +4,11 @@
 
 - [X] Theorie: Lineare Abbildungen
 - [X] Theorie: Matrizen
-- [ ] Theorie: Darstellung von linearen Abbildungen durch Matizen
-- [ ] Theorie: Die Anwendungen der linearen Transformationen  
-- [ ] Python-Funktion: Zweidimensionalen linearen Abbildungen
-- [ ] Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)
-- [ ] Quellen
+- [X] Theorie: Darstellung von linearen Abbildungen durch Matizen
+- [X] Theorie: Die Anwendungen der linearen Transformationen  
+- [X] Python-Funktion: Zweidimensionalen linearen Abbildungen
+- [X] Darstellung der Zweidimensionalen linearen Abbildungen (Grafik)
+- [X] Quellen
 
 
 ### Details  
